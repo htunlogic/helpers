@@ -1,7 +1,7 @@
 {
     "name": "htunlogic/helpers",
-    "description": "The Laravel Framework.",
-    "keywords": ["laravel", "trait"],
+    "description": "Laravel Framework helpers.",
+    "keywords": ["laravel", "helpers"],
     "license": "MIT",
     "authors": [
         {
