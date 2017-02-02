@@ -1,0 +1,23 @@
+{
+    "name": "htunlogic/helpers",
+    "description": "The Laravel Framework.",
+    "keywords": ["laravel", "trait"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tibor Hudik",
+            "email": "tibor@hudik.de"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "laravel/framework": ">=5.2"
+    },
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Htunlogic\\Helpers\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
